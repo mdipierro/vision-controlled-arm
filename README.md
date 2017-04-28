@@ -10,3 +10,7 @@ https://mdipierro.github.io/vision-controlled-arm/robot.html
 ## Acknowledgements
 
 Robot Code Adapted from http://www.engineering-bear.com/projects/three-js-webgl
+
+## License 
+
+BSD
